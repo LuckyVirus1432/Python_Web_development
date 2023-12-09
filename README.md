@@ -2,8 +2,11 @@
 A project to manage blogs on the website "Cyberbloggr"
 
 #Project Requirements/python packages:-
+(INSTALL THEM USING:- pip install <package_name>)
 1) flask
-2) 
+2) Flask-SQLAlchemy
+3) Flask-Mail
+4) Werkzeug
 
 #Steps to run the project:-
 1) Download the projects Zip file
@@ -14,8 +17,6 @@ A project to manage blogs on the website "Cyberbloggr"
 6) Open cmd prompt from the unzipped folder.
 7) Install requirements using pip.
 8) run main.py file
-
-
 
 
 #Things You Need to update in Json file:- 
